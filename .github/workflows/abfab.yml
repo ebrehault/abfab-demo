@@ -1,0 +1,13 @@
+on:
+    push:
+        branches:
+            - main
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Call AbFab webhook
+              uses: distributhor/workflow-webhook@v2
+              env:
+                  webhook_url: 'https://demo.abfab.dev/_utils/pull/abfab-demo'
+                  webhook_secret: 'no-secret'

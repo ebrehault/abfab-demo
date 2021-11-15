@@ -2,4 +2,4 @@
 
 Example of a simple AbFab applications, used to test the syncing mechanism.
 
-TODO: GitHub Action
+Testing deployment with GitHub Action
