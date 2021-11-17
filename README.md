@@ -2,4 +2,4 @@
 
 Example of a simple AbFab applications, used to test the syncing mechanism.
 
-Syncing back to Github
+Syncing back again to Github
