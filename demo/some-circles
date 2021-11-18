@@ -1,1 +1,1 @@
-{"type_name":"Content","path":"/demo/some-circles","view":"/demo/circles.svelte","data":{"color":"blue","circles":[{"x":10,"r":5},{"x":30,"r":10},{"x":50,"r":15},{"x":70,"r":20},{"x":90,"r":25}]}}
+{"type_name":"Content","path":"/abfab-demo/demo/some-circles","view":"/abfab-demo/demo/circles.svelte","status":null,"data":{"color":"blue","circles":[{"x":10,"r":5},{"x":30,"r":10},{"x":50,"r":15},{"x":70,"r":20},{"x":90,"r":25}]}}
