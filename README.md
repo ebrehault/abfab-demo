@@ -2,4 +2,4 @@
 
 Example of a simple AbFab applications, used to test the syncing mechanism.
 
-Syncing againfsdfsdfsd
+Syncing qwerty
